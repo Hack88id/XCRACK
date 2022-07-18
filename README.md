@@ -13,7 +13,7 @@ pkg install pip
 
 pip install lambda && pip install mechanize && pop install requests
 
-git clone https://github.com/Hack&&id/XCRACK
+git clone https://github.com/Hack88id/XCRACK
 
 cd XCRACK
 
